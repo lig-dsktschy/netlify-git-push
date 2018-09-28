@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        git-push
+        life is good
       </h1>
       <h2 class="subtitle">
         My pioneering Nuxt.js project
